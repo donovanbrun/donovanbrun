@@ -1,4 +1,6 @@
 ### Hi there 👋
+Passionate about space and cars 🚀🏎  
+Currently working as an apprentice software developer during my engineering studies 👨‍🎓
 
 <!--
 **NoxxDonovan/NoxxDonovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
