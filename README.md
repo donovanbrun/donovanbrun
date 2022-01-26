@@ -1,6 +1,6 @@
 ### Hi there 👋
 Passionate about space and cars 🚀🏎  
-Currently working as an apprentice software developer during my engineering studies 👨‍🎓
+Currently working as an apprentice software engineer during my engineering studies 👨‍🎓
 
 #### Languages
 
