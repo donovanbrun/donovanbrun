@@ -1,5 +1,5 @@
 ### Hi there 👋
-Passionate about space and cars 🚀🏎  
+Passionate about space and IT 🚀  
 Currently working as an apprentice software engineer during my engineering studies 👨‍🎓
 
 #### Languages
