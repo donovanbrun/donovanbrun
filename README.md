@@ -2,6 +2,17 @@
 Passionate about space and IT 🚀  
 Currently working as an apprentice software engineer during my engineering studies 👨‍🎓
 
+### My skills
+
+* Building APIs
+* Designing and developing user interfaces
+* Managing data
+
+### Topics that interest me
+
+* IoT
+* Data engineering
+
 #### Languages
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
