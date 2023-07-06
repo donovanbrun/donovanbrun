@@ -9,6 +9,7 @@ Currently working as an apprentice software engineer during my engineering studi
 
 ### Topics that interest me
 
+* Embedded Software
 * IoT
 * AI
 * Big Data
