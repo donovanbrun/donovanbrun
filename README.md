@@ -1,6 +1,6 @@
 ### Hi there 👋
 Passionate about space and IT 🚀  
-Currently working as an apprentice software engineer during my engineering studies 👨‍🎓
+Currently a software engineer working on financial software for an insurance broker.
 
 ### My skills
 
